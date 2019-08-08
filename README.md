@@ -1,3 +1,15 @@
+## Elastic Search
+Elasticsearch is an open-source, broadly-distributable search engine. Elasticsearch can power extremely fast searches that support your data discovery applications. The Elasticsearch design is much simpler and much leaner than a database constrained by schemas, tables, fields, rows, and columns which makes it a lot faster than just SQL query.
+
+Some of the features are:
+1. Distributed and Highly Available Search Engine.
+2. Each index is fully sharded with a configurable number of shards.
+3. Each shard can have one or more replicas.
+4. Read / Search operations performed on any of the replica shards.
+5. Multi Tenant.
+6. Support for more than one index.
+7. Index level configuration (number of shards, index storage, …).
+
 ## Updating to New Releases
 
 Create React App is divided into two packages:
